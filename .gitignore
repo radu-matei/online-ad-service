@@ -250,3 +250,6 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+
+src/OnlineAdService/OnlineAdService.Common/connectionStrings.config
